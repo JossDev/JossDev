@@ -30,7 +30,6 @@
   <img src='https://raw.githubusercontent.com/JossDev/JossDev/main/skills/relay.svg' height='42px'>
   <img src='https://raw.githubusercontent.com/JossDev/JossDev/main/skills/rxjs.png' height='42px'>
   <img src='https://raw.githubusercontent.com/JossDev/JossDev/main/skills/sass.png' height='42px'>
-  <img src='https://raw.githubusercontent.com/JossDev/JossDev/main/skills/solidity.png' height='42px'>
   <img src='https://raw.githubusercontent.com/JossDev/JossDev/main/skills/sql.png' height='42px'>
   <img src='https://raw.githubusercontent.com/JossDev/JossDev/main/skills/typescript.png' height='42px'>
   <img src='https://raw.githubusercontent.com/JossDev/JossDev/main/skills/webpack.svg' height='42px'>
