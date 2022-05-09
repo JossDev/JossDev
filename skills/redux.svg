@@ -1,22 +1,22 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 260 260" style="enable-background:new 0 0 260 260;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:#764ABC;}
-</style>
-<g>
-	<path class="st0" d="M163.9,142c6.8-3.3,9.9-11.3,7-18.5s-11.1-10.8-18.4-8.1l-0.5,0.2c-7.4,3-10.9,11.4-7.9,18.8
-		c1.6,3.6,4.2,6.2,7.1,7.5c-2.4,19.3-10.6,35.7-25.9,52.5c-10.4,11.5-22.9,18.8-36.8,21.9c-11.4,2.6-21.6,0.7-29.9-5.3
-		c-12.1-9-17.5-21.6-15.7-36.9c1.3-10.9,6-20.3,9.4-25.3c-2.1-2.9-5.5-7.6-7.7-11.2c-25.9,38.3-9.7,71.3,6.8,83.7
-		c12.4,9.2,31.4,10.8,49.3,4.3c4.9-1.8,9.5-4,13.9-7C143.8,201.3,160.6,174.3,163.9,142z"/>
-	<path class="st0" d="M195.6,96.4c-26.3-14.9-57.8-16.9-88.8-5.6l-3.8,1.4c-3.7-3.5-9.4-4.8-14.5-2.9L88,89.5
-		c-7.4,3-10.9,11.4-7.9,18.8c2.9,7.1,11.1,10.8,18.4,8.1l0.4-0.1c5.3-2.2,8.6-7.3,8.8-12.6l4.3-1.6c18.4-6.7,37.8-7.7,57.4-3
-		c15,3.6,27.6,10.8,37,21.6c7.8,8.6,11.2,18.7,9.9,28.7c-2.1,15.3-11,26.6-26,32c-9.7,3.5-19.9,4-25.6,3.6c-1.7,3.4-5.2,9-7.7,12.7
-		c12.2,1.1,23.8-0.1,34-3.9c23.3-8.5,35.8-27.6,37.7-42.9C230.7,134.5,221.3,110.5,195.6,96.4z"/>
-	<path class="st0" d="M84.9,175.4c2.9,7.1,11.1,10.8,18.4,8.1l0.5-0.2c7.4-3,10.9-11.4,7.9-18.8c-2.9-7.1-11.1-10.8-18.4-8.1
-		l-0.5,0.2c-0.5,0.2-1.2,0.4-1.6,0.9c-15.9-12.8-26.6-29.3-32.2-49.3c-4.4-14.9-4.1-29.3,0.6-42.8C63.4,53.9,75.4,44.6,84.5,41
-		c25.6-9.8,48.1,18.1,53.4,30.8c3.5-0.4,9.3-0.6,13.5-0.7c-17.2-38.3-48.9-49.9-72.2-41.4c-21.8,7.9-36.2,31-35.8,57.2
-		c0.1,35.1,18.3,62.3,40.4,80.9C83.4,169.9,83.7,172.9,84.9,175.4z"/>
-</g>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="72" height="20">
+    <linearGradient id="b" x2="0" y2="100%">
+        <stop offset="0" stop-color="#bbb" stop-opacity=".1"/>
+        <stop offset="1" stop-opacity=".1"/>
+    </linearGradient>
+
+    <clipPath id="a">
+        <rect width="72" height="20" rx="3" fill="#fff"/>
+    </clipPath>
+
+    <g clip-path="url(#a)">
+        <path fill="#555" d="M0 0h25v20H0z"/>
+        <path fill="#764abc" d="M25 0h47v20H25z"/>
+        <path fill="url(#b)" d="M0 0h72v20H0z"/>
+    </g>
+    <g fill="#fff"
+        text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="12">
+        <image x="5" y="3" width="14" height="14" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj4KICA8ZyBmaWxsPSIjNzY0QUJDIj4KICAgIDxwYXRoIGQ9Ik02NS42IDY1LjRjMi45LS4zIDUuMS0yLjggNS01LjgtLjEtMy0yLjYtNS40LTUuNi01LjRoLS4yYy0zLjEuMS01LjUgMi43LTUuNCA1LjguMSAxLjUuNyAyLjggMS42IDMuNy0zLjQgNi43LTguNiAxMS42LTE2LjQgMTUuNy01LjMgMi44LTEwLjggMy44LTE2LjMgMy4xLTQuNS0uNi04LTIuNi0xMC4yLTUuOS0zLjItNC45LTMuNS0xMC4yLS44LTE1LjUgMS45LTMuOCA0LjktNi42IDYuOC04LS40LTEuMy0xLTMuNS0xLjMtNS4xLTE0LjUgMTAuNS0xMyAyNC43LTguNiAzMS40IDMuMyA1IDEwIDguMSAxNy40IDguMSAyIDAgNC0uMiA2LS43IDEyLjgtMi41IDIyLjUtMTAuMSAyOC0yMS40eiIvPgogICAgPHBhdGggZD0iTTgzLjIgNTNjLTcuNi04LjktMTguOC0xMy44LTMxLjYtMTMuOEg1MGMtLjktMS44LTIuOC0zLTQuOS0zaC0uMmMtMy4xLjEtNS41IDIuNy01LjQgNS44LjEgMyAyLjYgNS40IDUuNiA1LjRoLjJjMi4yLS4xIDQuMS0xLjUgNC45LTMuNEg1MmM3LjYgMCAxNC44IDIuMiAyMS4zIDYuNSA1IDMuMyA4LjYgNy42IDEwLjYgMTIuOCAxLjcgNC4yIDEuNiA4LjMtLjIgMTEuOC0yLjggNS4zLTcuNSA4LjItMTMuNyA4LjItNCAwLTcuOC0xLjItOS44LTIuMS0xLjEgMS0zLjEgMi42LTQuNSAzLjYgNC4zIDIgOC43IDMuMSAxMi45IDMuMSA5LjYgMCAxNi43LTUuMyAxOS40LTEwLjYgMi45LTUuOCAyLjctMTUuOC00LjgtMjQuM3oiLz4KICAgIDxwYXRoIGQ9Ik0zMi40IDY3LjFjLjEgMyAyLjYgNS40IDUuNiA1LjRoLjJjMy4xLS4xIDUuNS0yLjcgNS40LTUuOC0uMS0zLTIuNi01LjQtNS42LTUuNGgtLjJjLS4yIDAtLjUgMC0uNy4xLTQuMS02LjgtNS44LTE0LjItNS4yLTIyLjIuNC02IDIuNC0xMS4yIDUuOS0xNS41IDIuOS0zLjcgOC41LTUuNSAxMi4zLTUuNiAxMC42LS4yIDE1LjEgMTMgMTUuNCAxOC4zIDEuMy4zIDMuNSAxIDUgMS41LTEuMi0xNi4yLTExLjItMjQuNi0yMC44LTI0LjYtOSAwLTE3LjMgNi41LTIwLjYgMTYuMS00LjYgMTIuOC0xLjYgMjUuMSA0IDM0LjgtLjUuNy0uOCAxLjgtLjcgMi45eiIvPgogIDwvZz4KPC9zdmc+Cg=="/>
+        <text x="47.5" y="14.6" fill="#010101" fill-opacity=".3">Redux</text>
+        <text x="47.5" y="14">Redux</text>
+    </g>
 </svg>
