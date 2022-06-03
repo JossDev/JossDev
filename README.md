@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/JossDev/JossDev/main/sprites/jolteon.gif" width="50px"> **Hello there, <img src="https://raw.githubusercontent.com/JossDev/JossDev/main/sprites/wave.gif" width="30px">** I'm Joss Schrödinger. | [![Profile views](https://gpvc.arturio.dev/JossDev)](https://github.com/JossDev)
+**Hello there,** I'm Joss Schrödinger. | [![Profile views](https://gpvc.arturio.dev/JossDev)](https://github.com/JossDev)
 
 - **Fullstack Developer**
 - **Currently working on my personal portfolio**
